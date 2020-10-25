@@ -1,0 +1,5 @@
+.idea/
+venv/
+
+git config --global user.name "Phil Splash"
+git config --global user.email johndoe@example.com
